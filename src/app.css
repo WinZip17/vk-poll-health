@@ -1,0 +1,31 @@
+.question-content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20%;
+}
+
+.question-button {
+    margin-bottom: 25px;
+    width: 120px;
+}
+
+.info-button {
+    margin-bottom: 25px;
+}
+
+.question-header {
+    margin-bottom: 25px;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.info-header1 {
+    margin-bottom: 0;
+}
+.info-header2 {
+    margin-top: 5px;
+    margin-bottom: 40px;
+}
